@@ -25,6 +25,6 @@ The goal of tastyR is to provide recipe data from Allrecipes.com for easy access
 You can install the development version of tastyR like so:
 
 
-```{r}
+```{r, message=FALSE}
 devtools::install_github("owlzyseyes/tastyR")
 ```
