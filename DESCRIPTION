@@ -1,0 +1,14 @@
+Package: tastyR
+Date: 2025-07-28
+Title: TastyR
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Brian",
+           family = "Mubia",
+           role = c("aut", "cre"),
+           email = "mubia65@gmail.com")
+Description: Provides recipe data scraped from Allrecipes.com including ingredients, nutrition facts, cooking times, ratings, and review metadata ready for analysis.
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
