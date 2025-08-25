@@ -1,13 +1,13 @@
 Package: tastyR
 Date: 2025-08-01
-Title: Recipe Data from Allrecipes.com
+Title: Recipe Data from allrecipes.com
 Version: 0.1.0
 Authors@R: 
     person(given = "Brian",
            family = "Mubia",
            role = c("aut", "cre"),
            email = "mubia65@gmail.com")
-Description: A collection of recipe datasets scraped from Allrecipes.com, containing two complementary datasets: 'allrecipes' with 14,426 general recipes, and 'cuisines' with 2,218 recipes categorized by country of origin. Both datasets include comprehensive recipe information such as ingredients, nutritional facts (calories, fat, carbs, protein), cooking times (preparation and cooking), ratings, and review metadata. All data has been cleaned and standardized, ready for analysis.
+Description: A collection of recipe datasets scraped from allrecipes.com, containing two complementary datasets: 'allrecipes' with 14,426 general recipes, and 'cuisines' with 2,218 recipes categorized by country of origin. Both datasets include comprehensive recipe information such as ingredients, nutritional facts (calories, fat, carbs, protein), cooking times (preparation and cooking), ratings, and review metadata. All data has been cleaned and standardized, ready for analysis.
 License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
