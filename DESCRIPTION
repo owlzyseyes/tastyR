@@ -1,7 +1,7 @@
 Package: tastyR
 Date: 2025-08-01
 Title: TastyR
-Version: 0.1.0.0000
+Version: 0.1.0
 Authors@R: 
     person(given = "Brian",
            family = "Mubia",
