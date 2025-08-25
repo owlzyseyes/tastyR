@@ -1,6 +1,6 @@
 Package: tastyR
 Date: 2025-08-01
-Title: TastyR
+Title: Recipe Data from Allrecipes.com
 Version: 0.1.0
 Authors@R: 
     person(given = "Brian",
